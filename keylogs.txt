@@ -1,0 +1,72 @@
+
+[*] keylogger enabledError: Command 'vbucks.bat' returned non-zero exit status 1.Error: Command 'vbucks.bat' returned non-zero exit status 1.
+[*] keylogger already onError: Command 'vbucks.bat' returned non-zero exit status 1.Error: Command 'vbucks.bat' returned non-zero exit status 1.
+[*] keylogger already onError: Command 'vbucks.bat' returned non-zero exit status 1.Error: Command 'vbucks.bat' returned non-zero exit status 1.
+
+[*] keylogger enabledError: Command 'vbucks.bat' returned non-zero exit status 1. 2025-01-29 13:35:59,102 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "pynput\_util\__init__.py", line 229, in inner
+  File "pynput\keyboard\_win32.py", line 316, in _process
+  File "pynput\_util\__init__.py", line 145, in inner
+  File "testrat.py", line 27, in on_press
+OSError: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+ 2025-01-29 13:39:05,695 - 'h'
+ 2025-01-29 13:39:05,911 - 'y'
+ 2025-01-29 13:39:06,102 - 'g'
+ 2025-01-29 13:39:06,590 - Key.up
+ 2025-01-29 13:39:06,750 - Key.up
+ 2025-01-29 13:39:06,886 - Key.up
+ 2025-01-29 13:39:07,127 - Key.down
+ 2025-01-29 13:39:12,047 - Key.up
+ 2025-01-29 13:39:12,094 - Key.up
+ 2025-01-29 13:39:12,406 - Key.down
+ 2025-01-29 13:39:12,695 - Key.up
+ 2025-01-29 13:39:13,231 - Key.down
+[*] keylogger disabled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[*] keylogger enabledError: Command 'vbucks.bat' returned non-zero exit status 1. 2025-01-31 15:23:32,271 - Key.insert
+ 2025-01-31 15:23:33,021 - ';'
+ 2025-01-31 15:23:33,364 - '.'
+ 2025-01-31 15:23:33,403 - ';'
+ 2025-01-31 15:23:33,636 - ';'
+ 2025-01-31 15:23:33,867 - '.'
+ 2025-01-31 15:23:33,932 - ';'
+ 2025-01-31 15:23:40,956 - 'w'
+ 2025-01-31 15:23:40,987 - 's'
+ 2025-01-31 15:23:41,467 - 's'
+ 2025-01-31 15:23:41,604 - 'w'
+ 2025-01-31 15:23:41,867 - 'w'
+ 2025-01-31 15:23:41,883 - 's'
+ 2025-01-31 15:23:42,243 - 's'
+ 2025-01-31 15:23:42,299 - 'w'
+ 2025-01-31 15:23:42,531 - 's'
+ 2025-01-31 15:23:43,132 - 'f'
+ 2025-01-31 15:23:43,155 - 'r'
+ 2025-01-31 15:23:43,173 - 'v'
+ 2025-01-31 15:23:43,340 - '3'
+ 2025-01-31 15:23:43,467 - 'r'
+ 2025-01-31 15:23:44,356 - Key.space
+ 2025-01-31 15:23:44,771 - Key.space
+[*] keylogger disabled
